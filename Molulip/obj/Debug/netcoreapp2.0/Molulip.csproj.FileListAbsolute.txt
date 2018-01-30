@@ -1,0 +1,11 @@
+C:\Projects\Molulip\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.deps.json
+C:\Projects\Molulip\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.runtimeconfig.json
+C:\Projects\Molulip\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.runtimeconfig.dev.json
+C:\Projects\Molulip\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.dll
+C:\Projects\Molulip\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.pdb
+C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.csprojResolveAssemblyReference.cache
+C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.csproj.CoreCompileInputs.cache
+C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.AssemblyInfoInputs.cache
+C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.AssemblyInfo.cs
+C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.dll
+C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.pdb
