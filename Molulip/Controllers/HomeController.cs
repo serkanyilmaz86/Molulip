@@ -46,7 +46,10 @@ namespace Molulip.Controllers
 
             try
             {
-                var filePath = @"C:\ARGE\Molulip\Molulip\Feb.xlsx";
+                var baseDirectory = System.AppDomain.CurrentDomain.BaseDirectory;
+                var fileName = "Feb.xlsx";
+
+                var filePath = Path.GetFullPath(Path.Combine(baseDirectory, fileName));
 
                 FileInfo file = new FileInfo(filePath);
 
