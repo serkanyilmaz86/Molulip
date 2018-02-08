@@ -9,3 +9,15 @@ C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.AssemblyInfo
 C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.AssemblyInfo.cs
 C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.dll
 C:\Projects\Molulip\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.pdb
+C:\ARGE\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.deps.json
+C:\ARGE\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.runtimeconfig.json
+C:\ARGE\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.runtimeconfig.dev.json
+C:\ARGE\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.dll
+C:\ARGE\Molulip\Molulip\bin\Debug\netcoreapp2.0\Molulip.pdb
+C:\ARGE\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.csprojResolveAssemblyReference.cache
+C:\ARGE\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.csproj.CoreCompileInputs.cache
+C:\ARGE\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.AssemblyInfoInputs.cache
+C:\ARGE\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.AssemblyInfo.cs
+C:\ARGE\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.dll
+C:\ARGE\Molulip\Molulip\obj\Debug\netcoreapp2.0\Molulip.pdb
+C:\ARGE\Molulip\Molulip\bin\Debug\netcoreapp2.0\Feb.xlsx
